@@ -5,10 +5,10 @@
 ### Features
 
 - Real time chat engine for comments 
--Blog 
--Drag and drop interface 
-
-###Code Example 
+- Blog 
+- Drag and drop interface 
+ 
+### Code Example
 
 ```ruby
 def my_great_method
